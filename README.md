@@ -22,6 +22,16 @@ You **must** add tests!
 
 ## Grade
 
+* Have you done something? yes
+* Does your code compile? yes
+* Do your tests succeeds? yes
+* Have you added more tests? yes
+* Do the automatic tests succeed? no
+* Have you written the semantics as inference rules? no
+
+__Additional automatic tests need the function signatures to be unchanged,
+and cannot thus compile. Please fix it.__
+
 | Grade |
 | ----- |
-|       |
+|   4   |
